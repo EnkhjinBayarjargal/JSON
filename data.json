@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Fish & Chips", 
+        "description": "Served with soy sause, wasabi, pickled ginger and chopsticks", 
+        "price": "$14.00"
+    },
+    {
+        "id": 2,
+        "name": "Fishermen's Basket", 
+        "description": "Snow crab, avocado, cucmber, tobiko, Japanese mayonnaise", 
+        "price": "$7.00"
+    },
+    {
+        "id": 3,
+        "name": "Chicken Breat Saute", 
+        "description": "A Latte is a coffee drink made with espresso and steamed milk", 
+        "price": "$5.00"
+    },
+    {
+        "id": 4,
+        "name": "Crisp Pork Belly", 
+        "description": "Candied salmon, basil potato puree, baby kale marsala", 
+        "price": "$18.00"
+    }
+]
